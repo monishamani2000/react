@@ -1,0 +1,17 @@
+.bgcolor{
+    background: linear-gradient(to bottom right,purple,blue);
+    width: 100vw;
+    height: 100vh;
+}
+/* .fontsize{
+    width: 50%;
+    height: 50vh;
+} */
+input{
+    border: none;
+    outline: none;
+    border-bottom: 1px  solid black;
+}
+button{
+    border: none;
+}

@@ -1,0 +1,29 @@
+.one{
+    border: 8px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-radius: 20px;
+
+}
+.two{
+    border: 8px;
+    border-top-style: solid;
+    border-top-color: purple;
+    border-radius: 20px;
+
+}
+.three{
+    border: 8px;
+    border-top-style: solid;
+    border-top-color: green;
+    border-radius: 20px;
+
+}
+.four{
+    border: 8px;
+    border-top-style: solid;
+    border-top-color: yellow;
+    border-radius: 20px;
+
+
+}

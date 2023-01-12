@@ -1,0 +1,15 @@
+/* *{
+    text-align: center;
+} */
+.text-light{
+    font-family: 'Times New Roman', Times, serif;
+}
+.back{
+    background-image: url("https://images.pexels.com/photos/957040/night-photograph-starry-sky-night-sky-star-957040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 90vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50vh;
+
+}

@@ -1,0 +1,18 @@
+
+
+.bgimg{
+    background-image: url("https://www.mcdonaldwhsl.com/wp-content/uploads/2019/08/background-carrots-carrying-1327211-1200x480.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.headc{
+    color:orange;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+.parac{
+    color: black;
+    font-size: large;
+}
